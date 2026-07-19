@@ -1,0 +1,39 @@
+{
+    "devices": [
+        {
+            "name": "DATAKOM_LINE_A",
+            "type": "DATAKOM",
+            "ip": "127.0.0.1",
+            "port": 502,
+            "slave_id": 1
+        },
+        {
+            "name": "ENERGYTEAM_X_METER",
+            "type": "XMETER",
+            "ip": "127.0.0.1",
+            "port": 506,
+            "slave_id": 1
+        },
+        {
+            "name": "JANITZA_ZONE_1",
+            "type": "JANITZA",
+            "ip": "127.0.0.1",
+            "port": 503,
+            "slave_id": 1
+        },
+        {
+            "name": "JANITZA_ZONE_2",
+            "type": "JANITZA",
+            "ip": "127.0.0.1",
+            "port": 504,
+            "slave_id": 1
+        },
+        {
+            "name": "JANITZA_ZONE_3",
+            "type": "JANITZA",
+            "ip": "127.0.0.1",
+            "port": 505,
+            "slave_id": 1
+        }
+    ]
+}

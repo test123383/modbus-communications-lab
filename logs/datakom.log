@@ -1,0 +1,183 @@
+2026-06-09 11:03:43,224 | INFO     | [MainThread] Démarrage de la suite SCADA Datakom Core Engine.
+2026-06-09 11:03:43,563 | INFO     | [MainThread] Lancement du pipeline de rechargement à chaud de la configuration.
+2026-06-09 11:03:43,563 | INFO     | [MainThread] Chargement de la configuration depuis config.json
+2026-06-09 11:03:43,564 | ERROR    | [MainThread] Échec de validation de la configuration : Équipement 'DATAKOM' : Port 502 hors plage valide (1024-65535).
+2026-06-09 11:03:47,188 | INFO     | [MainThread] Rechargement achevé. 0 équipements injectés visuellement.
+2026-06-09 11:03:55,847 | INFO     | [MainThread] Lancement du pipeline de rechargement à chaud de la configuration.
+2026-06-09 11:03:55,847 | INFO     | [MainThread] Chargement de la configuration depuis config.json
+2026-06-09 11:03:55,851 | ERROR    | [MainThread] Échec de validation de la configuration : Équipement 'DATAKOM' : Port 502 hors plage valide (1024-65535).
+2026-06-09 11:03:58,738 | INFO     | [MainThread] Rechargement achevé. 0 équipements injectés visuellement.
+2026-06-09 11:04:10,941 | INFO     | [MainThread] Démarrage de la suite SCADA Datakom Core Engine.
+2026-06-09 11:04:11,297 | INFO     | [MainThread] Lancement du pipeline de rechargement à chaud de la configuration.
+2026-06-09 11:04:11,297 | INFO     | [MainThread] Chargement de la configuration depuis config.json
+2026-06-09 11:04:11,405 | INFO     | [MainThread] Rechargement achevé. 4 équipements injectés visuellement.
+2026-06-09 11:05:42,831 | INFO     | [MainThread] Nœud DATAKOM_LINE_C verrouillé dans le panneau d'édition.
+2026-06-09 11:05:50,315 | INFO     | [MainThread] Nœud DATAKOM_LINE_A verrouillé dans le panneau d'édition.
+2026-06-09 11:05:51,639 | INFO     | [MainThread] Nœud DATAKOM_LINE_A verrouillé dans le panneau d'édition.
+2026-06-09 11:05:54,393 | INFO     | [MainThread] Commande START reçue pour le nœud DATAKOM_LINE_A
+2026-06-09 11:05:54,395 | INFO     | [Sim-DATAKOM_LINE_A] Initialisation du serveur Modbus TCP pour DATAKOM_LINE_A
+2026-06-09 11:05:54,597 | INFO     | [Client-DATAKOM_LINE_A] Démarrage du client de collecte pour DATAKOM_LINE_A
+2026-06-09 11:05:54,604 | ERROR    | [Client-DATAKOM_LINE_A] Erreur de réponse Modbus (Exception Register) sur DATAKOM_LINE_A
+2026-06-09 11:05:55,609 | ERROR    | [Client-DATAKOM_LINE_A] Erreur de réponse Modbus (Exception Register) sur DATAKOM_LINE_A
+2026-06-09 11:05:56,614 | ERROR    | [Client-DATAKOM_LINE_A] Erreur de réponse Modbus (Exception Register) sur DATAKOM_LINE_A
+2026-06-09 11:05:57,616 | ERROR    | [Client-DATAKOM_LINE_A] Erreur de réponse Modbus (Exception Register) sur DATAKOM_LINE_A
+2026-06-09 11:05:58,619 | ERROR    | [Client-DATAKOM_LINE_A] Erreur de réponse Modbus (Exception Register) sur DATAKOM_LINE_A
+2026-06-09 11:05:59,622 | ERROR    | [Client-DATAKOM_LINE_A] Erreur de réponse Modbus (Exception Register) sur DATAKOM_LINE_A
+2026-06-09 11:05:59,965 | INFO     | [MainThread] Commande STOP reçue pour le nœud DATAKOM_LINE_A
+2026-06-09 11:05:59,965 | INFO     | [MainThread] Demande de coupure reçue pour le serveur Sim-DATAKOM_LINE_A
+2026-06-09 11:06:00,624 | INFO     | [Client-DATAKOM_LINE_A] Client de collecte pour DATAKOM_LINE_A fermé.
+2026-06-09 11:06:01,673 | INFO     | [MainThread] Commande START reçue pour le nœud DATAKOM_LINE_A
+2026-06-09 11:06:01,673 | CRITICAL | [MainThread] Impossible de démarrer DATAKOM_LINE_A : Le port 5021 est déjà alloué.
+2026-06-09 11:06:04,633 | INFO     | [MainThread] Commande START reçue pour le nœud DATAKOM_LINE_A
+2026-06-09 11:06:04,633 | CRITICAL | [MainThread] Impossible de démarrer DATAKOM_LINE_A : Le port 5021 est déjà alloué.
+2026-06-09 11:06:19,243 | INFO     | [MainThread] Démarrage de la suite SCADA Datakom Core Engine.
+2026-06-09 11:06:19,650 | INFO     | [MainThread] Lancement du pipeline de rechargement à chaud de la configuration.
+2026-06-09 11:06:19,650 | INFO     | [MainThread] Chargement de la configuration depuis config.json
+2026-06-09 11:06:19,755 | INFO     | [MainThread] Rechargement achevé. 4 équipements injectés visuellement.
+2026-06-09 11:06:21,524 | INFO     | [MainThread] Commande START reçue pour le nœud DATAKOM_LINE_A
+2026-06-09 11:06:21,526 | INFO     | [Sim-DATAKOM_LINE_A] Initialisation du serveur Modbus TCP pour DATAKOM_LINE_A
+2026-06-09 11:06:21,727 | INFO     | [Client-DATAKOM_LINE_A] Démarrage du client de collecte pour DATAKOM_LINE_A
+2026-06-09 11:06:21,736 | ERROR    | [Client-DATAKOM_LINE_A] Erreur de réponse Modbus (Exception Register) sur DATAKOM_LINE_A
+2026-06-09 11:06:22,746 | ERROR    | [Client-DATAKOM_LINE_A] Erreur de réponse Modbus (Exception Register) sur DATAKOM_LINE_A
+2026-06-09 11:06:23,748 | ERROR    | [Client-DATAKOM_LINE_A] Erreur de réponse Modbus (Exception Register) sur DATAKOM_LINE_A
+2026-06-09 11:06:24,752 | ERROR    | [Client-DATAKOM_LINE_A] Erreur de réponse Modbus (Exception Register) sur DATAKOM_LINE_A
+2026-06-09 11:06:25,756 | ERROR    | [Client-DATAKOM_LINE_A] Erreur de réponse Modbus (Exception Register) sur DATAKOM_LINE_A
+2026-06-09 11:06:25,804 | INFO     | [MainThread] Commande START reçue pour le nœud DATAKOM_LINE_B
+2026-06-09 11:06:25,805 | INFO     | [Sim-DATAKOM_LINE_B] Initialisation du serveur Modbus TCP pour DATAKOM_LINE_B
+2026-06-09 11:06:26,007 | INFO     | [Client-DATAKOM_LINE_B] Démarrage du client de collecte pour DATAKOM_LINE_B
+2026-06-09 11:06:26,012 | ERROR    | [Client-DATAKOM_LINE_B] Erreur de réponse Modbus (Exception Register) sur DATAKOM_LINE_B
+2026-06-09 11:06:26,760 | ERROR    | [Client-DATAKOM_LINE_A] Erreur de réponse Modbus (Exception Register) sur DATAKOM_LINE_A
+2026-06-09 11:06:27,022 | ERROR    | [Client-DATAKOM_LINE_B] Erreur de réponse Modbus (Exception Register) sur DATAKOM_LINE_B
+2026-06-09 11:06:27,764 | ERROR    | [Client-DATAKOM_LINE_A] Erreur de réponse Modbus (Exception Register) sur DATAKOM_LINE_A
+2026-06-09 11:06:28,027 | ERROR    | [Client-DATAKOM_LINE_B] Erreur de réponse Modbus (Exception Register) sur DATAKOM_LINE_B
+2026-06-09 11:06:28,768 | ERROR    | [Client-DATAKOM_LINE_A] Erreur de réponse Modbus (Exception Register) sur DATAKOM_LINE_A
+2026-06-09 11:06:29,033 | ERROR    | [Client-DATAKOM_LINE_B] Erreur de réponse Modbus (Exception Register) sur DATAKOM_LINE_B
+2026-06-09 11:06:29,774 | ERROR    | [Client-DATAKOM_LINE_A] Erreur de réponse Modbus (Exception Register) sur DATAKOM_LINE_A
+2026-06-09 11:06:30,038 | ERROR    | [Client-DATAKOM_LINE_B] Erreur de réponse Modbus (Exception Register) sur DATAKOM_LINE_B
+2026-06-09 11:06:30,780 | ERROR    | [Client-DATAKOM_LINE_A] Erreur de réponse Modbus (Exception Register) sur DATAKOM_LINE_A
+2026-06-09 11:06:31,043 | ERROR    | [Client-DATAKOM_LINE_B] Erreur de réponse Modbus (Exception Register) sur DATAKOM_LINE_B
+2026-06-09 11:06:31,403 | INFO     | [MainThread] Commande START reçue pour le nœud DATAKOM_LINE_C
+2026-06-09 11:06:31,404 | INFO     | [Sim-DATAKOM_LINE_C] Initialisation du serveur Modbus TCP pour DATAKOM_LINE_C
+2026-06-09 11:06:31,605 | INFO     | [Client-DATAKOM_LINE_C] Démarrage du client de collecte pour DATAKOM_LINE_C
+2026-06-09 11:06:31,612 | ERROR    | [Client-DATAKOM_LINE_C] Erreur de réponse Modbus (Exception Register) sur DATAKOM_LINE_C
+2026-06-09 11:06:31,784 | ERROR    | [Client-DATAKOM_LINE_A] Erreur de réponse Modbus (Exception Register) sur DATAKOM_LINE_A
+2026-06-09 11:06:32,047 | ERROR    | [Client-DATAKOM_LINE_B] Erreur de réponse Modbus (Exception Register) sur DATAKOM_LINE_B
+2026-06-09 11:06:32,622 | ERROR    | [Client-DATAKOM_LINE_C] Erreur de réponse Modbus (Exception Register) sur DATAKOM_LINE_C
+2026-06-09 11:06:32,789 | ERROR    | [Client-DATAKOM_LINE_A] Erreur de réponse Modbus (Exception Register) sur DATAKOM_LINE_A
+2026-06-09 11:06:33,050 | ERROR    | [Client-DATAKOM_LINE_B] Erreur de réponse Modbus (Exception Register) sur DATAKOM_LINE_B
+2026-06-09 11:06:33,584 | INFO     | [MainThread] Commande START reçue pour le nœud DATAKOM
+2026-06-09 11:06:33,585 | INFO     | [Sim-DATAKOM] Initialisation du serveur Modbus TCP pour DATAKOM
+2026-06-09 11:06:33,625 | ERROR    | [Client-DATAKOM_LINE_C] Erreur de réponse Modbus (Exception Register) sur DATAKOM_LINE_C
+2026-06-09 11:06:33,793 | INFO     | [Client-DATAKOM] Démarrage du client de collecte pour DATAKOM
+2026-06-09 11:06:33,798 | ERROR    | [Client-DATAKOM_LINE_A] Erreur de réponse Modbus (Exception Register) sur DATAKOM_LINE_A
+2026-06-09 11:06:33,801 | ERROR    | [Client-DATAKOM] Erreur de réponse Modbus (Exception Register) sur DATAKOM
+2026-06-09 11:06:34,054 | ERROR    | [Client-DATAKOM_LINE_B] Erreur de réponse Modbus (Exception Register) sur DATAKOM_LINE_B
+2026-06-09 11:06:34,811 | ERROR    | [Client-DATAKOM_LINE_A] Erreur de réponse Modbus (Exception Register) sur DATAKOM_LINE_A
+2026-06-09 11:06:34,811 | ERROR    | [Client-DATAKOM_LINE_C] Erreur de réponse Modbus (Exception Register) sur DATAKOM_LINE_C
+2026-06-09 11:06:34,811 | ERROR    | [Client-DATAKOM] Erreur de réponse Modbus (Exception Register) sur DATAKOM
+2026-06-09 11:06:35,057 | ERROR    | [Client-DATAKOM_LINE_B] Erreur de réponse Modbus (Exception Register) sur DATAKOM_LINE_B
+2026-06-09 11:06:35,816 | ERROR    | [Client-DATAKOM_LINE_C] Erreur de réponse Modbus (Exception Register) sur DATAKOM_LINE_C
+2026-06-09 11:06:35,817 | ERROR    | [Client-DATAKOM_LINE_A] Erreur de réponse Modbus (Exception Register) sur DATAKOM_LINE_A
+2026-06-09 11:06:35,819 | ERROR    | [Client-DATAKOM] Erreur de réponse Modbus (Exception Register) sur DATAKOM
+2026-06-09 11:06:36,061 | ERROR    | [Client-DATAKOM_LINE_B] Erreur de réponse Modbus (Exception Register) sur DATAKOM_LINE_B
+2026-06-09 11:06:36,819 | ERROR    | [Client-DATAKOM_LINE_C] Erreur de réponse Modbus (Exception Register) sur DATAKOM_LINE_C
+2026-06-09 11:06:36,821 | ERROR    | [Client-DATAKOM_LINE_A] Erreur de réponse Modbus (Exception Register) sur DATAKOM_LINE_A
+2026-06-09 11:06:36,823 | ERROR    | [Client-DATAKOM] Erreur de réponse Modbus (Exception Register) sur DATAKOM
+2026-06-09 11:06:37,066 | ERROR    | [Client-DATAKOM_LINE_B] Erreur de réponse Modbus (Exception Register) sur DATAKOM_LINE_B
+2026-06-09 11:06:37,823 | ERROR    | [Client-DATAKOM_LINE_C] Erreur de réponse Modbus (Exception Register) sur DATAKOM_LINE_C
+2026-06-09 11:06:37,826 | ERROR    | [Client-DATAKOM_LINE_A] Erreur de réponse Modbus (Exception Register) sur DATAKOM_LINE_A
+2026-06-09 11:06:37,827 | ERROR    | [Client-DATAKOM] Erreur de réponse Modbus (Exception Register) sur DATAKOM
+2026-06-09 11:06:38,071 | ERROR    | [Client-DATAKOM_LINE_B] Erreur de réponse Modbus (Exception Register) sur DATAKOM_LINE_B
+2026-06-09 11:06:38,137 | INFO     | [MainThread] Commande STOP reçue pour le nœud DATAKOM_LINE_A
+2026-06-09 11:06:38,137 | INFO     | [MainThread] Demande de coupure reçue pour le serveur Sim-DATAKOM_LINE_A
+2026-06-09 11:06:38,828 | INFO     | [Client-DATAKOM_LINE_A] Client de collecte pour DATAKOM_LINE_A fermé.
+2026-06-09 11:06:38,831 | ERROR    | [Client-DATAKOM_LINE_C] Erreur de réponse Modbus (Exception Register) sur DATAKOM_LINE_C
+2026-06-09 11:06:38,832 | ERROR    | [Client-DATAKOM] Erreur de réponse Modbus (Exception Register) sur DATAKOM
+2026-06-09 11:06:39,075 | ERROR    | [Client-DATAKOM_LINE_B] Erreur de réponse Modbus (Exception Register) sur DATAKOM_LINE_B
+2026-06-09 11:06:39,531 | INFO     | [MainThread] Commande STOP reçue pour le nœud DATAKOM_LINE_B
+2026-06-09 11:06:39,531 | INFO     | [MainThread] Demande de coupure reçue pour le serveur Sim-DATAKOM_LINE_B
+2026-06-09 11:06:39,837 | ERROR    | [Client-DATAKOM_LINE_C] Erreur de réponse Modbus (Exception Register) sur DATAKOM_LINE_C
+2026-06-09 11:06:39,839 | ERROR    | [Client-DATAKOM] Erreur de réponse Modbus (Exception Register) sur DATAKOM
+2026-06-09 11:06:40,077 | INFO     | [Client-DATAKOM_LINE_B] Client de collecte pour DATAKOM_LINE_B fermé.
+2026-06-09 11:06:40,743 | INFO     | [MainThread] Commande STOP reçue pour le nœud DATAKOM_LINE_C
+2026-06-09 11:06:40,743 | INFO     | [MainThread] Demande de coupure reçue pour le serveur Sim-DATAKOM_LINE_C
+2026-06-09 11:06:40,840 | INFO     | [Client-DATAKOM_LINE_C] Client de collecte pour DATAKOM_LINE_C fermé.
+2026-06-09 11:06:40,841 | ERROR    | [Client-DATAKOM] Erreur de réponse Modbus (Exception Register) sur DATAKOM
+2026-06-09 11:06:41,571 | INFO     | [MainThread] Commande STOP reçue pour le nœud DATAKOM
+2026-06-09 11:06:41,571 | INFO     | [MainThread] Demande de coupure reçue pour le serveur Sim-DATAKOM
+2026-06-09 11:06:41,842 | INFO     | [Client-DATAKOM] Client de collecte pour DATAKOM fermé.
+2026-06-09 11:06:42,348 | INFO     | [MainThread] Commande START reçue pour le nœud DATAKOM
+2026-06-09 11:06:42,349 | CRITICAL | [MainThread] Impossible de démarrer DATAKOM : Le port 5024 est déjà alloué.
+2026-06-09 11:06:46,616 | INFO     | [MainThread] Chargement de la configuration depuis config.json
+2026-06-09 11:06:46,618 | INFO     | [MainThread] Fichier de configuration sauvegardé avec succès.
+2026-06-09 11:06:46,618 | INFO     | [MainThread] Lancement du pipeline de rechargement à chaud de la configuration.
+2026-06-09 11:06:46,682 | INFO     | [MainThread] Chargement de la configuration depuis config.json
+2026-06-09 11:06:46,755 | INFO     | [MainThread] Rechargement achevé. 3 équipements injectés visuellement.
+2026-06-09 11:06:46,755 | INFO     | [MainThread] Équipement DATAKOM purgé des bases systèmes.
+2026-06-09 11:09:39,617 | INFO     | [MainThread] Démarrage de la suite SCADA Datakom Core Engine.
+2026-06-09 11:09:40,003 | INFO     | [MainThread] Lancement du pipeline de rechargement à chaud de la configuration.
+2026-06-09 11:09:40,003 | INFO     | [MainThread] Chargement de la configuration depuis config.json
+2026-06-09 11:09:40,089 | INFO     | [MainThread] Rechargement achevé. 3 équipements injectés visuellement.
+2026-06-09 11:09:42,582 | INFO     | [MainThread] Commande START reçue pour le nœud DATAKOM_LINE_A
+2026-06-09 11:09:42,584 | INFO     | [Sim-DATAKOM_LINE_A] Initialisation du serveur Modbus TCP pour DATAKOM_LINE_A
+2026-06-09 11:09:42,785 | INFO     | [Client-DATAKOM_LINE_A] Démarrage du client de collecte pour DATAKOM_LINE_A
+2026-06-09 11:09:42,795 | ERROR    | [Client-DATAKOM_LINE_A] Erreur de réponse Modbus (Exception Register) sur DATAKOM_LINE_A
+2026-06-09 11:09:43,805 | ERROR    | [Client-DATAKOM_LINE_A] Erreur de réponse Modbus (Exception Register) sur DATAKOM_LINE_A
+2026-06-09 11:09:44,809 | ERROR    | [Client-DATAKOM_LINE_A] Erreur de réponse Modbus (Exception Register) sur DATAKOM_LINE_A
+2026-06-09 11:09:45,813 | ERROR    | [Client-DATAKOM_LINE_A] Erreur de réponse Modbus (Exception Register) sur DATAKOM_LINE_A
+2026-06-09 11:09:46,817 | ERROR    | [Client-DATAKOM_LINE_A] Erreur de réponse Modbus (Exception Register) sur DATAKOM_LINE_A
+2026-06-09 11:09:47,822 | ERROR    | [Client-DATAKOM_LINE_A] Erreur de réponse Modbus (Exception Register) sur DATAKOM_LINE_A
+2026-06-09 11:09:48,824 | ERROR    | [Client-DATAKOM_LINE_A] Erreur de réponse Modbus (Exception Register) sur DATAKOM_LINE_A
+2026-06-09 11:09:49,827 | ERROR    | [Client-DATAKOM_LINE_A] Erreur de réponse Modbus (Exception Register) sur DATAKOM_LINE_A
+2026-06-09 11:09:50,830 | ERROR    | [Client-DATAKOM_LINE_A] Erreur de réponse Modbus (Exception Register) sur DATAKOM_LINE_A
+2026-06-09 11:09:51,054 | INFO     | [MainThread] Commande STOP reçue pour le nœud DATAKOM_LINE_A
+2026-06-09 11:09:51,055 | INFO     | [MainThread] Demande de coupure reçue pour le serveur Sim-DATAKOM_LINE_A
+2026-06-09 11:09:51,831 | INFO     | [Client-DATAKOM_LINE_A] Client de collecte pour DATAKOM_LINE_A fermé.
+2026-06-09 11:10:56,781 | INFO     | [MainThread] Chargement de la configuration depuis config.json
+2026-06-09 11:10:56,881 | INFO     | [MainThread] Rechargement achevé. 3 équipements chargés.
+2026-06-09 11:10:56,882 | INFO     | [MainThread] Système initialisé. Lancement automatique de l'ensemble des simulateurs...
+2026-06-09 11:10:57,124 | INFO     | [MainThread] Commande START reçue pour le nœud DATAKOM_LINE_A
+2026-06-09 11:10:57,125 | INFO     | [Sim-DATAKOM_LINE_A] Initialisation du serveur Modbus TCP pour DATAKOM_LINE_A
+2026-06-09 11:10:57,326 | INFO     | [Client-DATAKOM_LINE_A] Démarrage du client de collecte pour DATAKOM_LINE_A
+2026-06-09 11:10:57,335 | ERROR    | [Client-DATAKOM_LINE_A] Erreur de réponse Modbus sur DATAKOM_LINE_A
+2026-06-09 11:10:57,339 | INFO     | [MainThread] Commande START reçue pour le nœud DATAKOM_LINE_B
+2026-06-09 11:10:57,340 | INFO     | [Sim-DATAKOM_LINE_B] Initialisation du serveur Modbus TCP pour DATAKOM_LINE_B
+2026-06-09 11:10:57,541 | INFO     | [Client-DATAKOM_LINE_B] Démarrage du client de collecte pour DATAKOM_LINE_B
+2026-06-09 11:10:57,548 | ERROR    | [Client-DATAKOM_LINE_B] Erreur de réponse Modbus sur DATAKOM_LINE_B
+2026-06-09 11:10:57,553 | INFO     | [MainThread] Commande START reçue pour le nœud DATAKOM_LINE_C
+2026-06-09 11:10:57,554 | INFO     | [Sim-DATAKOM_LINE_C] Initialisation du serveur Modbus TCP pour DATAKOM_LINE_C
+2026-06-09 11:10:57,755 | INFO     | [Client-DATAKOM_LINE_C] Démarrage du client de collecte pour DATAKOM_LINE_C
+2026-06-09 11:10:57,763 | ERROR    | [Client-DATAKOM_LINE_C] Erreur de réponse Modbus sur DATAKOM_LINE_C
+2026-06-09 11:10:58,342 | ERROR    | [Client-DATAKOM_LINE_A] Erreur de réponse Modbus sur DATAKOM_LINE_A
+2026-06-09 11:10:58,557 | ERROR    | [Client-DATAKOM_LINE_B] Erreur de réponse Modbus sur DATAKOM_LINE_B
+2026-06-09 11:10:58,773 | ERROR    | [Client-DATAKOM_LINE_C] Erreur de réponse Modbus sur DATAKOM_LINE_C
+2026-06-09 11:10:59,345 | ERROR    | [Client-DATAKOM_LINE_A] Erreur de réponse Modbus sur DATAKOM_LINE_A
+2026-06-09 11:10:59,562 | ERROR    | [Client-DATAKOM_LINE_B] Erreur de réponse Modbus sur DATAKOM_LINE_B
+2026-06-09 11:10:59,777 | ERROR    | [Client-DATAKOM_LINE_C] Erreur de réponse Modbus sur DATAKOM_LINE_C
+2026-06-09 11:11:00,350 | ERROR    | [Client-DATAKOM_LINE_A] Erreur de réponse Modbus sur DATAKOM_LINE_A
+2026-06-09 11:11:00,561 | INFO     | [MainThread] Commande STOP reçue pour le nœud DATAKOM_LINE_A
+2026-06-09 11:11:00,562 | INFO     | [MainThread] Demande de coupure reçue pour le serveur Sim-DATAKOM_LINE_A
+2026-06-09 11:11:00,567 | ERROR    | [Client-DATAKOM_LINE_B] Erreur de réponse Modbus sur DATAKOM_LINE_B
+2026-06-09 11:11:00,781 | ERROR    | [Client-DATAKOM_LINE_C] Erreur de réponse Modbus sur DATAKOM_LINE_C
+2026-06-09 11:11:01,351 | INFO     | [Client-DATAKOM_LINE_A] Client de collecte pour DATAKOM_LINE_A fermé.
+2026-06-09 11:11:01,493 | INFO     | [MainThread] Commande START reçue pour le nœud DATAKOM_LINE_A
+2026-06-09 11:11:01,494 | CRITICAL | [MainThread] Impossible de démarrer DATAKOM_LINE_A : Le port 5021 est déjà alloué.
+2026-06-09 11:11:01,574 | ERROR    | [Client-DATAKOM_LINE_B] Erreur de réponse Modbus sur DATAKOM_LINE_B
+2026-06-09 11:11:01,786 | ERROR    | [Client-DATAKOM_LINE_C] Erreur de réponse Modbus sur DATAKOM_LINE_C
+2026-06-09 11:11:02,578 | ERROR    | [Client-DATAKOM_LINE_B] Erreur de réponse Modbus sur DATAKOM_LINE_B
+2026-06-09 11:11:02,790 | ERROR    | [Client-DATAKOM_LINE_C] Erreur de réponse Modbus sur DATAKOM_LINE_C
+2026-06-09 11:11:03,582 | ERROR    | [Client-DATAKOM_LINE_B] Erreur de réponse Modbus sur DATAKOM_LINE_B
+2026-06-09 11:11:03,794 | ERROR    | [Client-DATAKOM_LINE_C] Erreur de réponse Modbus sur DATAKOM_LINE_C
+2026-06-09 11:11:04,587 | ERROR    | [Client-DATAKOM_LINE_B] Erreur de réponse Modbus sur DATAKOM_LINE_B
+2026-06-09 11:11:04,798 | ERROR    | [Client-DATAKOM_LINE_C] Erreur de réponse Modbus sur DATAKOM_LINE_C
+2026-06-09 11:11:05,397 | INFO     | [MainThread] Commande STOP reçue pour le nœud DATAKOM_LINE_B
+2026-06-09 11:11:05,397 | INFO     | [MainThread] Demande de coupure reçue pour le serveur Sim-DATAKOM_LINE_B
+2026-06-09 11:11:05,589 | INFO     | [Client-DATAKOM_LINE_B] Client de collecte pour DATAKOM_LINE_B fermé.
+2026-06-09 11:11:05,803 | ERROR    | [Client-DATAKOM_LINE_C] Erreur de réponse Modbus sur DATAKOM_LINE_C
+2026-06-09 11:11:06,307 | INFO     | [MainThread] Commande STOP reçue pour le nœud DATAKOM_LINE_C
+2026-06-09 11:11:06,308 | INFO     | [MainThread] Demande de coupure reçue pour le serveur Sim-DATAKOM_LINE_C
+2026-06-09 11:11:06,805 | INFO     | [Client-DATAKOM_LINE_C] Client de collecte pour DATAKOM_LINE_C fermé.
+2026-06-09 11:11:06,896 | INFO     | [MainThread] Commande START reçue pour le nœud DATAKOM_LINE_C
+2026-06-09 11:11:06,897 | CRITICAL | [MainThread] Impossible de démarrer DATAKOM_LINE_C : Le port 5023 est déjà alloué.
+2026-06-09 11:11:09,699 | INFO     | [MainThread] Commande START reçue pour le nœud DATAKOM_LINE_C
+2026-06-09 11:11:09,700 | CRITICAL | [MainThread] Impossible de démarrer DATAKOM_LINE_C : Le port 5023 est déjà alloué.
