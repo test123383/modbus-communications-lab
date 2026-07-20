@@ -3,7 +3,7 @@ Simulateur multi-threadé d'équipements industriels Modbus TCP avec injection d
 
 # Modbus Communications & Emulation Lab
  
-Ce dépôt regroupe deux outils complémentaires conçus pour simuler des équipements industriels Modbus TCP, générer des configurations d'émulateurs en bloc, et tester la robustesse des communications réseau.
+Ce dépôt regroupe deux outils complémentaires conçus pour simuler des équipements industriels Modbus TCP, générer des configurations d'émulateurs en bloc, et tester la robustesse des communications réseau. 
  
 ---
  
@@ -21,7 +21,7 @@ Voici l'organisation des fichiers recommandée pour vos dossiers :
 
 ├── [Projet 1] - Modbus Lab GUI/
 
-│   ├── main.py                        # Interface de simulation & injection d'anomalies
+│   ├── interface.py                        # Interface de simulation & injection d'anomalies
 
 │   ├── config.json                    # Fichier de configuration des simulateurs physiques
 
@@ -31,7 +31,7 @@ Voici l'organisation des fichiers recommandée pour vos dossiers :
 
 └── [Projet 2] - Config Generator/
 
-    ├── main.py                        # Interface du générateur de configuration dynamique
+    ├── interface2.py                        # Interface du générateur de configuration dynamique 
 
     └── requirements.txt               # Dépendances (customtkinter) 
  
