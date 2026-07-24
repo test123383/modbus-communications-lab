@@ -1,37 +1,26 @@
 # modbus-communications-lab
-Simulateur multi-threadé d'équipements industriels Modbus TCP avec injection d'anomalies réseau et générateur dynamique de configurations en bloc (JSON).
+Multi-threaded Modbus TCP industrial device simulator with network anomaly injection and dynamic batch configuration generator (JSON).
 
 # Modbus Communications & Emulation Lab
- 
-Ce dépôt regroupe deux outils complémentaires conçus pour simuler des équipements industriels Modbus TCP, générer des configurations d'émulateurs en bloc, et tester la robustesse des communications réseau. 
- 
----
- 
-## 📁 1. Architecture des Projets (Arborescence)
- 
-Voici l'organisation des fichiers recommandée pour vos dossiers :
- 
-```text
 
+This repository contains two complementary tools designed to simulate Modbus TCP industrial devices, generate emulator configurations in batches, and test the robustness of network communications.
+
+---
+
+# 1. Project Architecture (Directory Structure)
+
+The following is the recommended folder organization for the projects:
+
+```text
 .
 
-├── README.md                          # Ce fichier (Instructions & Guide de démarrage)
-
+├── README.md                          # This file (Instructions & Getting Started Guide)
 │
-
-├── [Projet 1] - Modbus Lab GUI/
-
-│   ├── interface.py                        # Interface de simulation & injection d'anomalies
-
-│   ├── config.json                    # Fichier de configuration des simulateurs physiques
-
-│   └── requirements.txt               # Dépendances (customtkinter)
-
+├── [Project 1] - Modbus Lab GUI/
+│   ├── interface.py                   # Simulation interface & network anomaly injection
+│   ├── config.json                    # Configuration file for physical simulators
+│   └── requirements.txt               # Dependencies (customtkinter)
 │
-
-└── [Projet 2] - Config Generator/
-
-    ├── interface2.py                        # Interface du générateur de configuration dynamique 
-
-    └── requirements.txt               # Dépendances (customtkinter) 
- 
+└── [Project 2] - Config Generator/
+    ├── interface2.py                  # Dynamic configuration generator interface
+    └── requirements.txt               # Dependencies (customtkinter)
