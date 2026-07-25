@@ -21,7 +21,8 @@
 ---
 
 ### 2. Automated Data Reading Gateway (Modbus TCP ➔ MQTT)
-![Automated Gateway Interface](<img width="1881" height="1102" alt="image1" src="https://github.com/user-attachments/assets/a5a0cf2a-0a09-4925-9df8-5dcb443ff806" />)
+![Automated Gateway Interface](<img width="1160" height="742" alt="image2" src="https://github.com/user-attachments/assets/a2425526-8cdc-4be3-b7a7-667bf04b020e" />
+)
 
 *Provides centralized connectivity management for Modbus meters, real-time data ingestion, and direct streaming over local MQTT topics.*
 
