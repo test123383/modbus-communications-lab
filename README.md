@@ -1,24 +1,27 @@
-<img width="1160" height="742" alt="image2" src="https://github.com/user-attachments/assets/2ff42743-3c47-4e58-993d-7616ed05e216" />
-<img width="1881" height="1102" alt="image1" src="https://github.com/user-attachments/assets/a5a0cf2a-0a09-4925-9df8-5dcb443ff806" />
+
 # ⚡ Industrial Multiprotocol Gateway & Modbus Lab
 
 > A comprehensive Python suite for industrial Modbus TCP simulation, network fault injection, dynamic configuration generation, and automated Modbus-to-MQTT gateway data publishing.
 
-
+![Python](https://img.shields.io/badge/Python-3.8+-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![GUI](https://img.shields.io/badge/UI-CustomTkinter-blue?style=for-the-badge)
+![Protocol](https://img.shields.io/badge/Protocol-Modbus_TCP-orange?style=for-the-badge)
+![Broker](https://img.shields.io/badge/MQTT-Broker_Active-green?style=for-the-badge)
 
 ---
 
 ## 📸 Applications Showcase
 
 ### 1. Modbus Protocol & Network Robustness Lab
-![Modbus Simulator Interface](assets/simulator-gui.png)
+![Modbus Simulator Interface]<img width="1160" height="742" alt="image2" src="https://github.com/user-attachments/assets/2ff42743-3c47-4e58-993d-7616ed05e216" />
+)
 
 *Features multi-block rule configuration, dynamic simulator controls, and real-time network anomaly injection (Latency, Timeout, Packet Loss, Micro-Cuts, and Device Silence).*
 
 ---
 
 ### 2. Automated Data Reading Gateway (Modbus TCP ➔ MQTT)
-![Automated Gateway Interface](assets/gateway-gui.png)
+![Automated Gateway Interface](<img width="1881" height="1102" alt="image1" src="https://github.com/user-attachments/assets/a5a0cf2a-0a09-4925-9df8-5dcb443ff806" />)
 
 *Provides centralized connectivity management for Modbus meters, real-time data ingestion, and direct streaming over local MQTT topics.*
 
