@@ -13,16 +13,15 @@
 ## 📸 Applications Showcase
 
 ### 1. Modbus Protocol & Network Robustness Lab
-![Modbus Simulator Interface]<img width="1160" height="742" alt="image2" src="https://github.com/user-attachments/assets/2ff42743-3c47-4e58-993d-7616ed05e216" />
-)
+![Modbus Simulator Interface]<img width="1881" height="1102" alt="image1" src="https://github.com/user-attachments/assets/97e0c571-25d0-45ac-a471-8affed5d7c33" />
 
 *Features multi-block rule configuration, dynamic simulator controls, and real-time network anomaly injection (Latency, Timeout, Packet Loss, Micro-Cuts, and Device Silence).*
 
 ---
 
 ### 2. Automated Data Reading Gateway (Modbus TCP ➔ MQTT)
-![Automated Gateway Interface](<img width="1160" height="742" alt="image2" src="https://github.com/user-attachments/assets/a2425526-8cdc-4be3-b7a7-667bf04b020e" />
-)
+![Automated Gateway Interface]<img width="1160" height="742" alt="image2" src="https://github.com/user-attachments/assets/a2425526-8cdc-4be3-b7a7-667bf04b020e" />
+
 
 *Provides centralized connectivity management for Modbus meters, real-time data ingestion, and direct streaming over local MQTT topics.*
 
@@ -31,7 +30,9 @@
 ## 📁 Repository Structure
 
 ```text
-.
+.<img width="1881" height="1102" alt="image1" src="https://github.com/user-attachments/assets/84a36e02-a132-4f40-a44f-42a98e04cae7" />
+<img width="1881" height="1102" alt="image1" src="https://github.com/user-attachments/assets/1a36f6c9-2e7f-4cd9-a4ca-50c3ff252e20" />
+
 ├── README.md                          # Main project documentation
 ├── assets/                            # Application screenshots
 │   ├── simulator-gui.png              # Screenshot of the Modbus Lab GUI
