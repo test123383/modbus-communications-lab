@@ -1,3 +1,5 @@
+<img width="1160" height="742" alt="image2" src="https://github.com/user-attachments/assets/2ff42743-3c47-4e58-993d-7616ed05e216" />
+<img width="1881" height="1102" alt="image1" src="https://github.com/user-attachments/assets/a5a0cf2a-0a09-4925-9df8-5dcb443ff806" />
 # ⚡ Industrial Multiprotocol Gateway & Modbus Lab
 
 > A comprehensive Python suite for industrial Modbus TCP simulation, network fault injection, dynamic configuration generation, and automated Modbus-to-MQTT gateway data publishing.
