@@ -1,13 +1,8 @@
-<img width="1160" height="742" alt="image2" src="https://github.com/user-attachments/assets/6440f9b7-1298-4008-be12-b28190314848" />
-<img width="1881" height="1102" alt="image1" src="https://github.com/user-attachments/assets/afefdbe1-b301-409b-9cf3-1b20317f2d1f" />
 # ⚡ Industrial Multiprotocol Gateway & Modbus Lab
 
 > A comprehensive Python suite for industrial Modbus TCP simulation, network fault injection, dynamic configuration generation, and automated Modbus-to-MQTT gateway data publishing.
 
-![Python](https://img.shields.io/badge/Python-3.8+-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![GUI](https://img.shields.io/badge/UI-CustomTkinter-blue?style=for-the-badge)
-![Protocol](https://img.shields.io/badge/Protocol-Modbus_TCP-orange?style=for-the-badge)
-![Broker](https://img.shields.io/badge/MQTT-Broker_Active-green?style=for-the-badge)
+
 
 ---
 
@@ -44,4 +39,4 @@
 └── [Projet 2] - Gateway MQTT GUI/     # Automated Reading Gateway (Modbus ➔ MQTT)
     ├── main.py
     ├── gateway_storage.db
-    └── requirements.txt<img width="1881" height="1102" alt="image1" src="https://github.com/user-attachments/assets/fc210634-e015-4dc9-8487-373880277992" />
+    └── requirements.txt
